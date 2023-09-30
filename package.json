@@ -22,7 +22,8 @@
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
     "@shelex/cypress-allure-plugin": "^2.40.0",
     "cypress": "^12.17.4",
-    "esbuild": "^0.19.0"
+    "esbuild": "^0.19.0",
+    "multiple-cucumber-html-reporter": "^3.5.0"
   },
   "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^18.0.3"
